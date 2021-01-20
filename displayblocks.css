@@ -20,7 +20,8 @@
 
 .header h1 {
     display: inline-block;
-    vertical-align: top;
+    vertical-align: bottom;
+    margin: 0px;
 }
 
 .container li {
