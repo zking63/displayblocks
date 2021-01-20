@@ -1,0 +1,41 @@
+* {
+    border: 2px dotted red;
+}
+.container {
+    width: 920;
+    height: auto;
+    background-color: khaki;
+    padding: 10px;
+}
+
+.container img {
+    width: 60px;
+    height: auto;
+    display: inline-block;
+}
+
+.container h1 {
+    display: inline-block;
+}
+
+.images {
+    width: 400px;
+    height: auto;
+    margin: 0px;
+}
+
+.images li {
+    display: inline-block;
+}
+
+.blue {
+    width: 150px;
+    height: auto;
+    border: 10px solid blue;
+}
+
+.pink {
+    width: 150px;
+    height: auto;
+    background-color: pink;
+}
